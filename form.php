@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Сехно Ольга</title>
+    <title>Красноярчук Валерия</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
         integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
@@ -25,7 +25,7 @@
                 class="d-flex flex-row align-items-center justify-content-around justify-content-sm-start col-sm-9 px-sm-4 h-100">
                 <img src="https://image.freepik.com/free-vector/bird-logo-vector_95982-44.jpg" alt="Нет изображения"
                     class="logo">
-                <h2 class="text-body">Задание №3</h2>
+                <h2 class="text-body">Задание</h2>
             </div>
         </header>
         <div class="items d-flex flex-column">
@@ -99,7 +99,7 @@
         </div>
         <footer class="row d-flex flex-row justify-content-start mt-3 h-sm-75">
             <div class="d-flex flex-row align-items-center col-sm-9">
-                <div class="text-body text-light">(с) Сехно Ольга 2020</div>
+                <div class="text-body text-light">(с) Красноярчук  Валерия 2022</div>
             </div>
         </footer>
     </div>
